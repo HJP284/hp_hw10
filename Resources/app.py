@@ -1,3 +1,5 @@
+### USED CODE FROM ZACK, HE WAS ABLE TO HELP ME WITH THIS ###
+
 # 1. import Flask
 import numpy as np
 import os
